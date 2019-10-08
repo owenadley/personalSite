@@ -1,0 +1,27 @@
+{
+  "main": {
+    "name":"Owen Adley",
+    "image":"profilepic.jpg",
+    "bio":"I am a motivated and highly professional fifth year Software Engineering student who is not afraid of taking on new challenges. I have keen interests in full stack web and mobile development. I am currently seeking a full time position in the Ottawa area for the new year.",
+    "email": "owen.adley@gmail.com",
+    "phone": "289-926-1432",
+    "address":{
+      "city":"Ottawa",
+      "state":"Ontario"
+    },
+    "website": "http://www.owena.xyz",
+    "resumedownload":"./resume-2019.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/owenadley/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/owenadley",
+        "className":"fa fa-github"
+      }
+    ]
+  }
+}
