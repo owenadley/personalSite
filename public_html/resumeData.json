@@ -1,0 +1,27 @@
+{
+  "main": {
+    "name":"Owen Adley",
+    "image":"profilepic.jpg",
+    "bio":"I am a motivated and professional Software Engineer who seeks to innovate and create. I have keen interests in software fields including full-stack web and mobile development. I am currently searching for a job opportunity in the Toronto or Ottawa area.",
+    "email": "owen.adley@gmail.com",
+    "phone": "(289) 926-1432",
+    "address":{
+      "city":"Ottawa",
+      "state":"Ontario"
+    },
+    "website": "http://www.owena.xyz",
+    "resumedownload":"./OwenAdley-Resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/owenadley/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/owenadley",
+        "className":"fa fa-github"
+      }
+    ]
+  }
+}
